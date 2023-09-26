@@ -13,7 +13,7 @@
 
 ### :woman_technologist: About Me :
 I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Greece.
-- :mortar_board:  I'm currently studying Computer Science at the University of Piraeus(UniPi) in Greece.
+- :mortar_board:  I'm graduate of Computer Science field at the University of Piraeus(UniPi) in Greece.
 - :seedling: I'm on track for learning more about Artificial Intelligence, Software Technology, Pattern Recognition and Machine Learning.
 - :zap: In my free time, I solve online programming problems and read tech articles.
 - :speech_balloon: Feel free to reach out to me for consulting  or just for some interesting discussion.
