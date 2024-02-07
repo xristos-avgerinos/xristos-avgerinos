@@ -17,7 +17,7 @@ I am a Junior Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 - :seedling: I'm on track for learning more about Artificial Intelligence, Software Technology, Pattern Recognition and Machine Learning.
 - :zap: In my free time, I solve online programming problems and read tech articles.
 - :speech_balloon: Feel free to reach out to me for consulting  or just for some interesting discussion.
-- :e-mail: You can shoot me an email at xristoskitharistas@gmail.com! I'll try to respond as soon as I can.
+- :e-mail: You can shoot me an email at xristos.avgerinos01@gmail.com! I'll try to respond as soon as I can.
 
 ---
 
